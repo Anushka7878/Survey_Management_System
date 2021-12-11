@@ -1,0 +1,213 @@
+body{
+    margin:0;
+    padding:0;
+    /* font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;    former*/
+   font-family: 'Nunito Sans', sans-serif; 
+   /* 'Hind Siliguri', sans-serif;
+    font-family: 'Nunito Sans', sans-serif; */
+    /* background-color:  rgb(169, 240, 250);   */
+    background-size: cover;
+    }
+    
+hue{
+    border-color: rgb(99, 195, 219);
+    box-shadow: 0 1px 1px rgba(0, 0, 0, 0.075) inset, 0 0 8px rgb(104, 201, 239);
+}
+
+
+
+
+    
+    
+/*
+.loginbox{
+    width: 700px;
+    height: 420px;
+    background-color:lightseagreen;
+    color:navy;
+    top: 50%;
+    left: 50%;
+    position: absolute;
+    transform:translate(-50%,-50%) ;
+    box-sizing: border-box;
+}
+
+.loginbox p{
+    margin: 0;
+    padding: 0;
+    text-align: center;
+   }
+
+.loginbox input{
+    width:100%;
+    margin-bottom:20px;
+   
+}
+
+ */
+
+home{
+  background-color: rgba(164, 110, 207, 0.993);
+  color: rgb(132, 209, 17) ;
+ color: rgb(34, 177, 182);
+  color: rgb(248, 129, 188);
+ color: midnightblue;
+ color: orchid;
+ color: rgb(238, 131, 234);
+  color: purple;
+  color:rgb(226, 241, 241);
+  color: rgb(195, 199, 204);
+  color: skyblue;
+  color: rgb(92, 197, 238);
+   color:rgb(248, 129, 188);
+   color: darkorchid;
+   color: rgba(250, 250, 250, 0.301);
+   color:rgb(252, 180, 172);
+   color:rgba(184, 246, 90, 0.644) ;
+   
+
+}
+
+.navbar-nav a{
+    font-family: calibri(body);
+    font-size: 20px;
+    color: rgb(75, 148, 158) !important;
+  }
+
+  .menulines{
+    font-size: 30px;
+    cursor: pointer;
+    margin-right: auto;
+    color: black;
+  }
+ 
+   
+  
+ 
+/*-------------------------------- side bar   ---------------------         */
+
+   .side-bar{
+  position: fixed;
+  left:0;
+  width: 30px;
+  height: 100vh;
+  background-color: rgb(169, 241, 238);
+  font-size: 20px;
+    top:0;
+    left:0;
+    transition: 0.5s;
+    overflow-x: hidden;
+    z-index: 1;
+    transition: 0.5s;
+   
+   }
+
+   .side-bar:hover{
+     width: 300px;
+     
+   } 
+
+
+
+    .side-bar header {
+     padding-right: 10px;
+     padding-bottom: 10px;
+     font-size: 50px;
+     text-align: center;
+   }
+
+   .side-bar .menu{
+     width: 100%;
+    
+   }
+
+
+
+ .side-bar {
+  -moz-box-shadow:    -3px 0 5px 0 rgb(145, 140, 140);
+  -webkit-box-shadow: -3px 0 5px 0 rgb(168, 164, 164);
+  box-shadow:         -3px 0 50px 0 rgb(184, 180, 180);
+}  
+
+.side-bar .menu .item  a{
+  
+ background-color: rgba(248, 56, 152, 0.842);
+font-size: 16px;
+color: rgb(2, 24, 9);
+display: block;
+padding: 3px 30px;
+line-height: 60px;
+ text-decoration: none;
+}
+
+.side-bar .menu .item a:hover{
+  background: chocolate;
+  transition: 0.3s ease;
+}
+.side-bar .menu .item a .dropdown{
+  position: absolute;
+  right:0;
+  margin: 20px;
+  transition: 0.3s ease;
+  
+} 
+
+.side-bar .menu .item .sub-menu a:hover{
+  background: rgb(168, 30, 210);
+  transition: 0.3s ease;
+}
+
+.side-bar .menu .item .sub-menu a{
+
+  background: rgb(255, 127, 234);
+  padding-left: 60px;
+}
+
+.rotate{
+  transform: rotate(90deg);
+}
+
+::-webkit-scrollbar {
+  
+  width: 3px;
+}
+
+::-webkit-scrollbar-track{
+  background: purple;
+}
+
+::-webkit-scrollbar-thumb{
+  background: yellowgreen;
+  border-radius: 10px;
+}
+
+.close-btn{
+  position: absolute;
+  top:0;
+  right: 25px;
+  color: #555;
+  font-size: 25px;
+ }
+ 
+ .menu-btn{
+  position: absolute;
+  color: #fff;
+  font-size: 20px;
+  margin: 25px;
+  cursor: pointer;
+ }
+  
+
+   
+ 
+ /* --------------------------------------------------------sidebar end------------------------------------------------------ */
+
+
+
+
+
+
+
+ 
+
+ 

@@ -1,0 +1,22 @@
+The system works in three sections, 'Admin','Creator','Respondent'. Admin has the highest asscessbility  in the hierarchy. 
+For login Password cannot have whitespaces or special characters and sould be more than 4 characters.  
+
+Admin can:
+1. Add other users.
+2. Make another Admin.
+3. Create a survey. 
+4. Answer a survey.
+5. See the results of survey.
+6. Access all users information.
+
+Creator can:
+1. Create a survey.
+2. Answer a survey.
+3. see surveys result.
+
+Respondent can:
+1. Answer a survey.
+
+Admin login: 
+username- admin
+password- amdin 

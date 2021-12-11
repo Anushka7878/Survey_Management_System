@@ -1,5 +1,5 @@
 The system works in three sections, 'Admin','Creator','Respondent'. Admin has the highest asscessbility  in the hierarchy. 
-For login Password cannot have whitespaces or special characters and sould be more than 4 characters.  
+For sign up Password cannot have whitespaces or special characters and should be more than 4 characters.  
 
 Admin can:
 1. Add other users.
